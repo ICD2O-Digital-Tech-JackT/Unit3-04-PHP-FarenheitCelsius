@@ -16,7 +16,7 @@
     ?>
     <form action="./results.php" method="post" target="results">
       <label for="lblCelsius">Celsius:</label>
-      <input type="number" id="celsius" placeholder="Enter the temperature (calsius)" name="celsius"><br><br>
+      <input type="number" id="celsius" placeholder="Temperature (celsius)" name="celsius"><br><br>
       <input type="submit" value="Calculate Temperature in Fahrenheit">
     </form>
     <?php
